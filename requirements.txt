@@ -1,0 +1,10 @@
+git+https://github.com/HPE-Haven-OnDemand/havenondemand-python
+h2o
+bs4
+numpy
+scipy
+lxml
+django
+keras
+theano
+nltk
