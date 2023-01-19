@@ -1,10 +1,16 @@
-git+https://github.com/HPE-Haven-OnDemand/havenondemand-python
+usefull:
+API for python
+numpy
+panda
+
 h2o
 bs4
-numpy
 scipy
 lxml
 django
 keras
 theano
 nltk
+
+secondary:
+git
