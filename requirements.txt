@@ -1,16 +1,11 @@
 usefull:
-API for python
-numpy
-panda
-
-h2o
-bs4
-scipy
-lxml
-django
-keras
-theano
-nltk
+Python...
+from bs4 import BeautifulSoup
+import urllib.request as urllib
+import pandas as pd
+import ssl
+from random import randint
+from time import sleep
 
 secondary:
 git
