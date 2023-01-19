@@ -5,6 +5,8 @@ The objective of the SoulVest Impact Scoring tool (SIS) is to provide [predictiv
 
 **>>> Install requirements with "pip install -r requirements.txt"**
 
+https://raw.githubusercontent.com/adeline-hub/SoulVest-Impact-Scoring-/main/requirements.txt
+
 **>>> Training data SISanalysis.py**
 with a sentiment analysis, scrapes profile information and comment threads from:
 -	project pages on SoulVest's website,
