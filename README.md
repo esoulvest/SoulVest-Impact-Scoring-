@@ -6,6 +6,9 @@ The objective of the SoulVest Impact Scoring tool (SIS) is to provide [predictiv
 **>>> Install requirements with "pip install -r requirements.txt"**
 
 https://raw.githubusercontent.com/adeline-hub/SoulVest-Impact-Scoring-/main/requirements.txt
+The code is written in python, saved in .ipynb file. to open .ipynb file you should set up Jupyter Lab environment: https://jupyter.org/install. 
+So you may check if you have all for running this code thanks to the requirements.txt
+
 
 **>>> Training data SISanalysis.py**
 with a sentiment analysis, scrapes profile information and comment threads from:
