@@ -5,7 +5,7 @@ The objective of the SoulVest Impact Scoring tool (SVIS) is to provide [predicti
 
 **>>> What is ESG investing?"**
 ESG investing is an approach to managing assets where investors explicitly incorporate environmental, social, and governance (ESG) factors in their investment decisions with the long-term return of an investment portfolio in mind. ESG investing aims to correctly identify, evaluate, and price social, environmental, and economic risks and opportunities.
-Each of SV vehovule will focus on one of these ESG factors: Environmental Factors, Social Factors, and Governance Factors.
+Each of SV projects will focus on one of these ESG factors: Environmental Factors, Social Factors, and Governance Factors; mentionning the highly interrelated nature of ESG.
 
 **>>> Install requirements with "pip install -r requirements.txt"**
 
