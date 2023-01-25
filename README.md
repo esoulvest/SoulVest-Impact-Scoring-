@@ -1,7 +1,11 @@
 # SoulVest-Impact-Scoring-
 SoulVest Impact Scoring 
 
-The objective of the SoulVest Impact Scoring tool (SIS) is to provide [predictive] analytics that will allow finance companies and pre seeds projects to choose to fund the projects that are most likely to have a positive impact on the ecosystem.
+The objective of the SoulVest Impact Scoring tool (SVIS) is to provide [predictive] analytics that will allow finance companies and pre seeds projects to choose to fund the projects that are most likely to have a positive impact on the ecosystem.
+
+**>>> What is ESG investing?"**
+ESG investing is an approach to managing assets where investors explicitly incorporate environmental, social, and governance (ESG) factors in their investment decisions with the long-term return of an investment portfolio in mind. ESG investing aims to correctly identify, evaluate, and price social, environmental, and economic risks and opportunities.
+Each of SV vehovule will focus on one of these ESG factors: Environmental Factors, Social Factors, and Governance Factors.
 
 **>>> Install requirements with "pip install -r requirements.txt"**
 
